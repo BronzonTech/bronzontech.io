@@ -1,1 +1,1 @@
-# bronzontech.io
+# bronzontech
